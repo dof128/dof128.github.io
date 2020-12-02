@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+#source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,14 +13,14 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "json"
-gem "jekyll"
+#gem "json"
+#gem "jekyll"
 gem "minimal-mistakes-jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-paginate"
-gem "jekyll-gist"
+#gem "jekyll-sitemap"
+#gem "jekyll-paginate"
+#gem "jekyll-gist"
 
-gem "jekyll-include-cache"
+#gem "jekyll-include-cache"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"

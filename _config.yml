@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "오늘은"
+title                    : "오늘은 뭐하지?"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "dof128"
-description              : "오늘 뭐하지?"
+subtitle                 : ""
+name                     : ""
+description              : "이 또한 지나가리라."
 url                      : "https://dof128.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
